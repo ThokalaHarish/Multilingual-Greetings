@@ -1,0 +1,19 @@
+.buttons {
+  list-style-type: none;
+  margin-left: 30px;
+}
+.languageButton {
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  border: 1px solid #db1c48;
+  line-height: 2;
+  cursor: pointer;
+  border-radius: 16px;
+  padding: 4px 20px 4px 20px;
+}
+.active {
+  background-color: #db1c48;
+  color: #ffffff;
+}
